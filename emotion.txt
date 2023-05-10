@@ -1,0 +1,8 @@
+feeling
+mood
+emotion
+sensation
+fear
+sadness
+surprise
+disgust

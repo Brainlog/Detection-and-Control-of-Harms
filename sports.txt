@@ -1,0 +1,8 @@
+athlete
+teammate
+coach
+competition
+performance
+training
+strategy
+endurance
